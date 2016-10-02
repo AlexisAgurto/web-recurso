@@ -1,3 +1,21 @@
 body{
-	.background: #BDBDBD;
+	background: silver;
+}
+.parrafo1{
+	background: #5882FA;
+	font-family: "Homer Simpson", cursive;
+
+}
+.titulo{
+	font-family: Freehand521 BT;
+  font-size: 200%;
+  font-style: oblique; 
+  text-align: center;
+}
+.p{
+	font-family: "Homer Simpson", cursive;
+	background: #5882FA;
+}
+.botones{
+	text-align: center;
 }
